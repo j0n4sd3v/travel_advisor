@@ -1,5 +1,5 @@
 import { alpha} from '@mui/material/styles';
-import { makeStyles } from '@mui/styles'
+import { makeStyles } from '@mui/styles';
 
 export default makeStyles((theme) => ({
   title: {
@@ -17,9 +17,10 @@ export default makeStyles((theme) => ({
     marginLeft: 0,
     width: '100%',
     [theme.breakpoints.up('sm')]: { marginLeft: theme.spacing(3), width: 'auto' },
+    display:'flex',
   },
   searchIcon: {
-    padding: theme.spacing(0, 2), height: '100%', position: 'absolute', pointerEvents: 'none', display: 'flex', alignItems: 'center', justifyContent: 'center',
+    padding: theme.spacing(0, 2), height: '100%', position: 'relative', pointerEvents: 'none', display: 'flex', alignItems: 'center', justifyContent: 'center',
   },
   inputRoot: {
     color: 'inherit',
