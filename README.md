@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+
+# Getting Sta![photo](https://github.com/user-attachments/assets/4df06dbc-6d19-4ee1-a753-84722fa8007d)
+rted with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
